@@ -1,0 +1,7 @@
+git diff
+git status
+git add -A
+git commit -m "Add describe"
+git push
+input github userName
+input github pwd
