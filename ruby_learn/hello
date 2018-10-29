@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+puts "hello,world!"
+
+=begin
+	1. touch hello
+	2. 在文件头加 #!/usr/bin/env ruby
+	3. 命令行中 chmod +x hello 文件名
+	4. ./hello 执行文件  或者 ruby hello 执行
+=end
